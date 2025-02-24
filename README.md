@@ -1,2 +1,2 @@
 # git_today
-pull es merge
+#pull & merge
