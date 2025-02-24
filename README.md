@@ -1,2 +1,2 @@
 # git_today
-#pull & merge
+egy kis pull es merge
